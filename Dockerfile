@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM bashell/alpine-bash
 
 MAINTAINER Thomas Hourlier <thomas.hourlier@cnode.fr>
 

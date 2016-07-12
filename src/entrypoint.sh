@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 IFS=',' read -ra HOSTS <<< "$VIRTUAL_HOST"
 
